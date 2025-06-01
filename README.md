@@ -1,6 +1,6 @@
 #蔡鹏老师课题组作业2-数据分析
 # cpgroupsyfx
-                                                                   RNAseqSimPkg: RNA-seq Simulation, Analysis & Deployment
+RNAseqSimPkg: RNA-seq Simulation, Analysis & Deployment
 课程依托：高春辉老师课堂RNA-seq
 项目类型：R包开发 + Shiny应用 + Plumber API + Docker化 + CI/CD
 1.研究背景与目的
